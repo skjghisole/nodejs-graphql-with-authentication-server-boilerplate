@@ -1,8 +1,8 @@
 # nodejs-graphql-with-authentication-server-boilerplate
-This repository is a boilerplate for server creation :D
+This repository is a boilerplate for server creation 🔥
 
 
-Welcome to Skjghisole's Server Creation boilerplate
+Welcome to Skjghisole's Server Creation boilerplate 🚀
 
 
 ## What's inside? 🤔
