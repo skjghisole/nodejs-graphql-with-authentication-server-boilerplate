@@ -1,4 +1,4 @@
-import { UserType, CredentialType, AddressType, AddressInputType, CredentialInputType } from './User'
+import { UserType, CredentialType, CredentialInputType } from './User'
 import { ImageType, InputImageType } from './Image'
 import { DocumentCountType } from './DocumentCount'
 
@@ -10,8 +10,4 @@ export {
 	InputImageType,
 	UserType,
 	DocumentCountType,
-
-
-	AddressType,
-	AddressInputType,
 }
