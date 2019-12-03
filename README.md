@@ -19,7 +19,13 @@ Welcome to Skjghisole's Server Creation boilerplate 🚀
     ├── package.json
     └── README.md
 
-## How to start
+## What does it have? 🙇🏻‍♂️
+1. GraphQL Subscription Boilerplates
+2. GraphQL User Schemas and types
+3. User Authentication with bcrypt for hashing
+4. Dev boilerplates like babel (Open for modification)
+
+## How to start ⏯
 
 1. first clone the repo with the following command
     ```shell
